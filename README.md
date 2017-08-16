@@ -1,4 +1,4 @@
-# INDIVIDUAL-ADAPTIVITY-IN-USE-OF-RECOGNITION
+# Individual_Adaptivity_in_use_of_Recognition
 Experimental scripts, data and analysis scripts for Filevich, Horn and Kühn, Psychological Research (2017) 
 
 The experiment requires JATOS (www.jatos.org) to run. It was designed to run on a server but can be easily run locally. 
